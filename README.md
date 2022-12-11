@@ -33,3 +33,21 @@ NIM   : 312110309
 ![Screenshot (71)](https://user-images.githubusercontent.com/109432905/206889594-6c655937-1901-4772-9b55-31ed45b8628b.png)
 
 
+
+5. Membuat Main Class beserta codingannya
+
+![Screenshot (72)](https://user-images.githubusercontent.com/109432905/206889931-f5584ed7-348d-4965-929e-a353c22adca4.png)
+
+![Screenshot (73)](https://user-images.githubusercontent.com/109432905/206889945-87dbba3b-0c22-4d84-ab19-efae4654c44f.png)
+
+
+
+6. Bila kita running programnya hasilnya akan menjadi seperti ini
+
+![Screenshot (74)](https://user-images.githubusercontent.com/109432905/206890006-434524f9-b6bd-4b5a-895b-ef2f44d0fec7.png)
+
+![Screenshot (75)](https://user-images.githubusercontent.com/109432905/206890014-688a971f-6f9c-42f8-8412-3e95d531cb7f.png)
+
+
+
+
